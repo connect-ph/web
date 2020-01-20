@@ -2,12 +2,15 @@
 
 Cable operator networks are a potentially powerful force that may be harnessed to narrow the digital divide in the Philippines, with their extensive service coverage and installed fiber infrastructure. Unfortunately, cable operators lack essential technical skills required to operate and maintain Internet-scale IP networks with multi-service capability, and so they need to transform their workforce quickly and cost-efficiently. 
 
-**CONNECT (Cable Operators Neutral Network Exchange for Community Transformation)** aims to achieve these goals by fostering cooperation and interconnectivity among cable TV operators
-and providing technologies that would enable the delivery of competitive and new services.
-This will be done by establishing an industry-initiated open and neutral Internet exchange point,
-conducting intensive training, advocating the use of best practices and standards such as IPv6,
-and harnessing new technologies such as software defined networking within the network and at
-the exchange.
+The CONNECT project is a collaborative endeavor set out by the Electrical and Electronics Engineering
+Institution in the University of the Philippines Diliman (UP-EEEI), Advanced Science and Technology Institute
+(ASTI), Central Luzon State University (CLSU) and the Telmarc Corporation to improve the state of domestic
+Internet access and narrow the gap of digital divide in the Philippines. The project aims to achieve these goals
+by fostering cooperation and interconnectivity among Cable TV operators through the establishment of a
+neutral, software-defined Internet exchange, and providing technologies that would enable the delivery of
+competitive and new services to existing and prospective network users, especially those inhabiting missionary
+areas of the country generally out of reach by incumbent Internet service providers. This ongoing effort is
+supported by the Asi@Connect project and will be implemented until December 2020.
 
 ## Overview / Background
 
