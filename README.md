@@ -34,7 +34,7 @@ profitability.
 ## Strategies and Objectives 
 
 **Strategy 1: Engagement**. We believe that challenging problems like these require novel
-multi-stakeholder approaches in order to find creative solutions and so, our aim is to engender a cooperative effort among the members of the cable industry, local R&D agencies and NREN operator, academe, local communities and government units. 
+multi-stakeholder approaches in order to find creative solutions and so, our aim is to engender a cooperative effort among the members of the cable industry, local R&D agencies and NREN operator, academe, local communities and government units through public forums, participation in industry-sponsored events, and regular dialogues. 
 
 **Strategy 2: Enhancement**. We will embark on large-scale capability building between
 and among project participants, and when feasible, the wider public by programming training and capacity-building activities that expose our target beneficiaries to the latest technologies and best practices in communication networks. 
