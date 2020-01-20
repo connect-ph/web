@@ -1,4 +1,4 @@
-## Cable Operators Neutral Network Exchange for Community Transformation (CONNECT) 
+# Cable Operators Neutral Network Exchange for Community Transformation (CONNECT) 
 
 Cable operator networks are a potentially powerful force that may be harnessed to narrow the digital divide in the Philippines, with their extensive service coverage and installed infrastructure. Unfortunately, cable operators lack sufficient technical skills to operate and maintain large-scale IP networks that deliver high-speed access to the Internet, and so they need to transform their workforce quickly and cost-efficiently. 
 
@@ -31,40 +31,23 @@ geographically large areas that remain digitally underserved and covering these 
 would require large capital investments that would be difficult to recover due to poor
 profitability. 
 
-## Welcome to GitHub Pages
+## Strategies and Objectives 
 
-You can use the [editor on GitHub](https://github.com/connect-ph/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Strategy 1: Engagement**. We believe that challenging problems like these require novel
+multi-stakeholder approaches in order to find creative solutions and so, our aim is to engender a cooperative effort among the members of the cable industry, local R&D agencies and NREN operator, academe, local communities and government units. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Strategy 2: Enhancement**. We will embark on large-scale capability building between
+and among project participants, and when feasible, the wider public by programming training and capacity-building activities that expose our target beneficiaries to the latest technologies and best practices in communication networks. 
 
-### Markdown
+**Strategy 3: Exchange**. We will be working towards the formation of an 
+Internet exchange point targeted to, but not exclusively for, cable TV operators. This will ensure
+good network performance particularly in the exchange of domestic traffic,
+promote the development and distribution of local content, and create additional value for attracting foreign content-delivery networks to deploy caches. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Strategy 4: Enablement**. To ensure a flexible and future-proof infrastructure for cable TV
+operators, we intend to employ networking components with software-defined networking (SDN) technology both in the
+proposed cable operator IXP, and will promote the use of the same throughout partner cable TV
+network infrastructures. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/connect-ph/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Strategy 5: Empowerment**. We will organize and pilot-test _CO-OWNs: Community Operated Wireless
+Networks_, bottom-up community-driven infrastructure for developing reliable and flexible wireless access to the Internet. 
