@@ -12,7 +12,7 @@ the exchange.
 ## Overview / Background
 
 Cable television (CATV) operators enjoy a marginal share of the fixed broadband
-Internet market in the country but their infrastructure assets cover distant and suburban areas that are generally out of reach by telecommunication companies. 
+Internet market in the country but their infrastructure assets cover distant and suburban areas that are generally out of reach and unserved by telecommunication companies.  
 
 Cable network operators have to face and overcome several challenges in order to gain a signficant share of the local Internet market. Among these are:
 
