@@ -1,3 +1,12 @@
+## Cable Operators Neutral Network Exchange for Community Transformation (CONNECT) 
+
+Cable operator networks are a potentially powerful force that may be harnessed to narrow the digital divide in the Philippines, with their extensive service coverage and installed infrastructure. Unfortunately, cable operators lack sufficient technical skills to operate an ISP business, and so they need to transform rapidly in order to create meaningful and socially-relevant services beneficial to their community. CONNECT (Cable Operators Neutral Network Exchange for Community Transformation) aims to achieve these goals by fostering cooperation and interconnectivity among cable TV operators
+and providing technologies that would enable the delivery of competitive and new services.
+This will be done by establishing an industry-initiated open and neutral Internet exchange point,
+conducting intensive training, advocating the use of best practices and standards such as IPv6,
+and harnessing new technologies such as software defined networking within the network and at
+the exchange.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/connect-ph/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
