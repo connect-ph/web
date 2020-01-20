@@ -14,8 +14,7 @@ the exchange.
 Cable television (CATV) operators enjoy a marginal share of the fixed broadband
 Internet market in the country but their infrastructure assets cover distant and suburban areas that are generally out of reach by telecommunication companies. 
 
-Cable network operators have to face and overcome several challenges in order to
-significantly gain a bigger share of the local Internet market. Among these are:
+Cable network operators have to face and overcome several challenges in order to gain a signficant share of the local Internet market. Among these are:
 
 1. There is a need to transform the existing infrastructure from one that supports the
 delivery of (almost exclusively) video content, to one that is able to deliver triple-play
