@@ -1,6 +1,6 @@
 ## Cable Operators Neutral Network Exchange for Community Transformation (CONNECT) 
 
-Cable operator networks are a potentially powerful force that may be harnessed to narrow the digital divide in the Philippines, with their extensive service coverage and installed infrastructure. Unfortunately, cable operators lack sufficient technical skills to operate and maintain large-scale IP networks that deliver high-speed access to the Internet, and so they need to transform their workforce quickly. 
+Cable operator networks are a potentially powerful force that may be harnessed to narrow the digital divide in the Philippines, with their extensive service coverage and installed infrastructure. Unfortunately, cable operators lack sufficient technical skills to operate and maintain large-scale IP networks that deliver high-speed access to the Internet, and so they need to transform their workforce quickly and cost-efficiently. 
 
 **CONNECT (Cable Operators Neutral Network Exchange for Community Transformation)** aims to achieve these goals by fostering cooperation and interconnectivity among cable TV operators
 and providing technologies that would enable the delivery of competitive and new services.
