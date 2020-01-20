@@ -9,6 +9,36 @@ conducting intensive training, advocating the use of best practices and standard
 and harnessing new technologies such as software defined networking within the network and at
 the exchange.
 
+## Overview 
+
+Cable network operators have to face and overcome several challenges in order to
+significantly gain a bigger share of the local Internet market. Among these are:
+
+1. There is a need to transform the existing infrastructure from one that supports the
+delivery of (almost exclusively) video content, to one that is able to deliver triple-play
+services and additional new services that will provide a competitive edge. Before any
+such transformation in infrastructure and services may be made, there should be
+requisite capability-building in terms of technology know-how to reengineer and
+operate these flexible and forward-looking infrastructures
+2. The cable industry needs to band together organizationally and physically interconnect
+in order to achieve better purchasing leverage, economies of scale, and attain a critical
+mass that puts it in a better position to compete with traditional large
+telecommunications operators. From a technical perspective, interconnectivity and
+domestic peering between local cable operators will ensure better domestic network
+performance, more profitable use of expensive transit links, access and lower pricing
+for higher-capacity international transit, and attractiveness for content providers to
+colocate local content caches.
+3. Even with the already-extensive legacy cable TV infrastructure, there are still
+geographically large areas that remain digitally underserved. Covering these areas
+would require large capital investments that would be difficult to recover due to poor
+profitability. Despite the possibility of serving new areas by unlocking the latent
+potential of cable TV providers, new access infrastructure approaches and business
+models will have to be developed and applied in order to expand service coverage far
+beyond the current geographic reach of legacy infrastructures.
+Towards this end, we propose a multi-stakeholder, multi-pronged strategy that may be
+described by the following: engagement, enhancement, exchange, enablement, and
+empowerment.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/connect-ph/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
