@@ -1,6 +1,7 @@
 # Cable Operators Neutral Network Exchange for Community Transformation (CONNECT) 
 
-Cable operator networks are a potentially powerful force that may be harnessed to narrow the digital divide in the Philippines, with their extensive service coverage and installed fiber infrastructure. Unfortunately, cable operators lack essential technical skills required to operate and maintain Internet-scale IP networks with multi-service capability, and so they need to transform their workforce quickly and cost-efficiently. 
+Cable operator networks are a potentially powerful force that may be harnessed to to provide
+high-speed yet affordable Internet connectivity in underserved areas, with their extensive service coverage and installed fiber infrastructure. Unfortunately, cable operators lack essential technical skills necessary to operate and maintain Internet-scale IP networks with multi-service capability, and so they need to transform their workforce quickly and and their business model cost-efficiently. 
 
 The CONNECT project is a collaborative endeavor set out by the Electrical and Electronics Engineering
 Institution in the University of the Philippines Diliman (UP-EEEI), Advanced Science and Technology Institute
