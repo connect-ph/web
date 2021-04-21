@@ -55,5 +55,4 @@ network infrastructures.
 **Strategy 5: Empowerment**. We will organize and pilot-test _CO-OWNs: Community Operated Wireless
 Networks_, bottom-up community-driven infrastructure for developing reliable and flexible wireless access to the Internet. 
 
-Download project presentation from here: 
-https://github.com/connect-ph/web/raw/master/connect.pdf
+Download project presentation from here: <https://github.com/connect-ph/web/raw/master/connect.pdf>
