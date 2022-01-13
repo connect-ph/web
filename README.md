@@ -62,5 +62,5 @@ Download project presentation from here: <https://github.com/connect-ph/web/raw/
 **Project Overview:** <https://github.com/connect-ph/web/raw/master/connect.pdf>
 
 **BGP Training Slide Deck:** 
- * Day 1: https://docs.google.com/presentation/d/1cZ9-pRIGxrjTcWQJgtsrjVCZzAMwhEpH07mNohP7CQQ/edit?usp=sharing
- * Day 2: https://docs.google.com/presentation/d/1h2oaRbM_FBZ4MIih1FMi-S2kuOPIsA8ZLbB6C33ql_8/edit?usp=sharing
+ * Day 1: <https://docs.google.com/presentation/d/1cZ9-pRIGxrjTcWQJgtsrjVCZzAMwhEpH07mNohP7CQQ/edit?usp=sharing>
+ * Day 2: <https://docs.google.com/presentation/d/1h2oaRbM_FBZ4MIih1FMi-S2kuOPIsA8ZLbB6C33ql_8/edit?usp=sharing>
